@@ -68,7 +68,7 @@ const TopNav = () => {
                    />              
                </div>
                <div className="topnave__right-item">
-                   {/*theme setting */}
+                   {/*extra */}
                    <Dropdown/>
                </div>
            </div>
